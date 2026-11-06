@@ -1,0 +1,10 @@
+name: OnyxTextures
+version: 1.0.0
+main: de.onyx.textures.OnyxTextures
+api-version: '1.21'
+description: ONYX SMP Resource-Pack (Portal-Textur und Logo fuer das Regel-Fenster)
+commands:
+  onyxpack:
+    description: ONYX Resource-Pack verwalten
+    usage: /onyxpack send [Spieler] | reload | status
+    permission: onyx.admin
